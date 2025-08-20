@@ -1,3 +1,9 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-oasis-schema-parser-plugin"]
+	path = packages/nomad-oasis-schema-parser-plugin
+	url = https://github.com/CCP-NC/nomad-oasis-schema-parser-plugin.git
+[submodule "packages/nomad_nmr_schema"]
+	path = packages/nomad_nmr_schema
+	url = https://github.com/FAIRmat-NFDI/nomad-schema-plugin-nmr.git

@@ -7,3 +7,6 @@
 [submodule "packages/nomad_nmr_schema"]
 	path = packages/nomad_nmr_schema
 	url = https://github.com/FAIRmat-NFDI/nomad-schema-plugin-nmr.git
+[submodule "packages/nomad-nmr-schema"]
+	path = packages/nomad-nmr-schema
+	url = https://github.com/FAIRmat-NFDI/nomad-schema-plugin-nmr.git

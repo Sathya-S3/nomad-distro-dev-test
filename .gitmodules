@@ -4,9 +4,6 @@
 [submodule "packages/nomad_oasis_schema_parser_plugin"]
 	path = packages/nomad_oasis_schema_parser_plugin
 	url = https://github.com/CCP-NC/nomad-oasis-schema-parser-plugin.git
-[submodule "packages/nomad_nmr_schema"]
-	path = packages/nomad_nmr_schema
-	url = https://github.com/FAIRmat-NFDI/nomad-schema-plugin-nmr.git
 [submodule "packages/nomad-nmr-schema"]
 	path = packages/nomad-nmr-schema
 	url = https://github.com/FAIRmat-NFDI/nomad-schema-plugin-nmr.git
